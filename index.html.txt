@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>¡Felicidades! Eres el siguiente</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 50px;
+      background-color: #f4f4f4;
+    }
+    h1 {
+      color: #ff0000;
+    }
+  </style>
+</head>
+<body>
+  <h1>Prepárate</h1>
+  <p>Creado desde cero con HTML y CSS</p>
+</body>
+</html>
